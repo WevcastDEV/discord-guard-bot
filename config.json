@@ -1,0 +1,19 @@
+{
+  "welcomeChannelId": "1561488320070950974",
+  "leaveChannelId": "1561488320070950974",
+  "logChannelId": "1561488325603364874",
+  "autoRoleId": "1561488317239795743",
+  "antiLink": false,
+  "antiSpam": true,
+  "reactionRoles": [],
+  "lfgChannelId": "1561492257058848808",
+  "clashChannelId": "1561492259977953433",
+  "lolSetupDone": true,
+  "rulesChannelId": "1561492245004292098",
+  "ticketCategoryId": "1561493821081129054",
+  "lolMegaSetupDone": true,
+  "honorChannelId": "1561504454312992858",
+  "suggestionsChannelId": "1561504458305708112",
+  "communitySetupDone": true,
+  "tempVoiceSetupDone": true
+}

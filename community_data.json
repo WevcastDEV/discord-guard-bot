@@ -1,0 +1,23 @@
+{
+  "users": {
+    "1141826033981591626": {
+      "xp": 17,
+      "level": 1,
+      "messages": 1,
+      "ggHonors": 0,
+      "quizWins": 0,
+      "riotId": null,
+      "region": "br"
+    },
+    "847187794865422416": {
+      "xp": 20,
+      "level": 1,
+      "messages": 1,
+      "ggHonors": 0,
+      "quizWins": 0,
+      "riotId": null,
+      "region": "br"
+    }
+  },
+  "reputationCooldowns": {}
+}
